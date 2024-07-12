@@ -5,6 +5,7 @@ Learning Blender / Blender Trick List
 
 I made a layout and a few renders I'll add to the repo here now
 ![render](https://github.com/qst0/blender/blob/main/renders/20240711.1.png?raw=true)
+![render](https://github.com/qst0/blender/blob/main/renders/20240711.2.png?raw=true)
 
 ## 2024 06 19
 
