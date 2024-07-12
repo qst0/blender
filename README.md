@@ -1,6 +1,10 @@
 # Blender Time
 Learning Blender / Blender Trick List
 
+## 2024 07 11
+
+I made a layout and a few renders I'll add to the repo here now
+
 ## 2024 06 19
 
 Today I downloaded and installed blender on my current workhorse laptop and got familar with the basics and moved into keyframe animations as a project for the day.
