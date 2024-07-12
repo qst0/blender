@@ -12,6 +12,12 @@ The front desk scan looks interesting, so I set up a camera to render it.
 These renders had a 10 second limit and Denoise on, because I wanted them quick.
 
 
+## 2024 06 26
+
+<img width="432" alt="Screenshot 2024-07-11 at 22 30 15" src="https://github.com/user-attachments/assets/0f6afdb5-c4cb-4688-b7da-fa57a9a305d5">
+<img width="875" alt="Screenshot 2024-07-11 at 22 32 19" src="https://github.com/user-attachments/assets/7fda02dd-9b12-4a77-90ab-8b68b83b5018">
+I made these around this time, but I've uploaded them 240711
+
 ## 2024 06 19
 
 Today I downloaded and installed blender on my current workhorse laptop and got familar with the basics and moved into keyframe animations as a project for the day.
