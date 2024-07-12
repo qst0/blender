@@ -4,6 +4,13 @@ Learning Blender / Blender Trick List
 ## 2024 07 11
 
 I made a layout and a few renders I'll add to the repo here now
+![render](https://github.com/qst0/blender/blob/main/renders/20240711.0.png?raw=true)
+For this one I used the chair model I had created before (not journaled) with a premade folding table to create a layout for an upcoming classroom event.
+![render](https://github.com/qst0/blender/blob/main/renders/20240711.1.png?raw=true)
+The front desk scan looks interesting, so I set up a camera to render it.
+
+These renders had a 10 second limit and Denoise on, because I wanted them quick.
+
 
 ## 2024 06 19
 
